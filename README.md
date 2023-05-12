@@ -6,8 +6,6 @@ Using any tools provided let's build a TODO web appliaction. The app only needs 
 * [ ] The user should be able to create a new todo item by entering a description and pressing a "+" button.
 * [ ] The user should be able to mark a todo item as complete by clicking a checkbox next to the item.
 * [ ] The user should be able to delete a todo item by clicking a "Delete" button next to the item.
-* [ ] The user should be able to see a list of all todo items that have not been marked as complete.
-* [ ] The user should be able to edit the description of a todo item by clicking an "Edit" button next to the item, making changes, and clicking a "Save" button.
 * [ ] The user should be able to see a count of the total number of todo items and the number of incomplete items.
 
 ## Bonus Points
